@@ -1,0 +1,30 @@
+BARBEARIA WHIL CORTES — COMO EDITAR
+
+1. Abra a pasta whil-cortes no VS Code.
+2. Abra index.html usando Live Server.
+3. No index.html, altere textos, serviços, horários e caminhos das fotos.
+4. Coloque suas fotos na pasta assets/img usando os nomes indicados abaixo,
+   OU troque o valor de src="assets/img/..." no index.html.
+5. No script.js, altere CONFIG.whatsapp, CONFIG.mensagem e CONFIG.endereco.
+6. As cores, espaços e tamanhos ficam no style.css.
+
+FOTOS ESPERADAS (arquivos não incluídos; substitua por imagens autorizadas):
+hero-barbeiro.jpg
+whil-barber-week.jpg
+servico-corte.jpg
+servico-barba.jpg
+servico-degrade.jpg
+servico-desenhos.jpg
+servico-infantil.jpg
+galeria-01.jpg até galeria-06.jpg
+
+OBSERVAÇÕES:
+- Fotos não foram extraídas das capturas de tela, para evitar baixa resolução.
+- O mapa utiliza Google Maps embed sem chave; confira se aponta ao endereço correto.
+- A nota 5,0 e 39 avaliações foi observada na captura enviada, não é sincronizada.
+- Depoimentos não foram inventados: a seção leva às avaliações no Google.
+- Confira o horário, os serviços e a descrição com o proprietário antes de publicar.
+- O layout é responsivo e usa HTML/CSS/JS puros, sem mensalidade de bibliotecas.
+- SEO básico e local incluído em title, description e estrutura semântica.
+
+CORREÇÃO: Hero agora tem texto à esquerda e imagem à direita no desktop. No celular, foto acima e texto abaixo. Edite a imagem em index.html: assets/img/hero-barbeiro.jpg.
